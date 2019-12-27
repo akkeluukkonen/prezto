@@ -13,3 +13,4 @@ fi
 ENABLE_CORRECTION="true"
 
 # Customize to your needs...
+eval "$(direnv hook zsh)"
