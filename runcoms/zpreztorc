@@ -43,6 +43,13 @@ zstyle ':prezto:load' pmodule \
   'zsh-z'
 
 #
+# Git
+#
+
+# Disable aliases
+zstyle ':prezto:module:git:alias' skip 'yes'
+
+#
 # Autosuggestions
 #
 
