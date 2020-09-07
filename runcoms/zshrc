@@ -14,3 +14,5 @@ ENABLE_CORRECTION="true"
 
 # Customize to your needs...
 eval "$(direnv hook zsh)"
+
+alias gs='git status -sb'
